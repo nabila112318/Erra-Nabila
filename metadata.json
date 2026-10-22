@@ -1,0 +1,8 @@
+{
+  "name": "Garment Process Engineering Analysis Dashboard",
+  "description": "Sistem analisis Process Engineering garmen cerdas dengan Automatic Style Switching, Multi-Style & Multi-Line Management, Excel BP Import, Line Balancing Yamazumi, dan Analisis Pareto Bottleneck.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
